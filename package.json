@@ -1,0 +1,11 @@
+{
+  "name": "fiqh-ts-qawaid-fiqhiyyah-tree",
+  "version": "1.0.0",
+  "description": "Five Major Legal Maxims (Al-Qawa'id Al-Fiqhiyyah) Decision Tree (شجرة القواعد الفقهية الخمس الكبرى وتطبيقاتها)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
